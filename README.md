@@ -1,3 +1,2 @@
 # odin-recipes-ericsson
-TOP Recipes
-create basic recipe website to showcase html skills once done here
+A toy HTML website for showcasing recipes in TOP recipes
