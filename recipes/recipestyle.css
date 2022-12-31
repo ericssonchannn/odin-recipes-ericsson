@@ -1,0 +1,17 @@
+h3 {
+    font-style: italic;
+}
+
+#logotext {
+    font-size: 20px;
+    color: #e1ae61;
+    margin-top: 9px;
+    word-spacing:2000px;
+    padding-left: 100px;
+    background-color: rgba(255, 226, 197, 0.769);
+    height:50px;
+}
+
+a {
+    color:#e1ae61;
+}
